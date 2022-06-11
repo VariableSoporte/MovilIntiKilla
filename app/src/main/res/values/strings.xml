@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AplicacionIntiKilla</string>
+    <string name="Header">INGRESO DEL SISTEMA</string>
+    <string name="txtUsuario">Ingrese su usuario:</string>
+    <string name="txtContraseña">Ingrese su contraseña:</string>
+    <string name="txtIngresar">Ingresar</string>
+    <string name="txtRegistrarse">Registrarse</string>
+    <string name="txtEjUsuario">EjemploUsuario</string>
+    <string name="txtEjContraseña">Contraseña</string>
+    <string name="txtSalir">Salir</string>
+</resources>
